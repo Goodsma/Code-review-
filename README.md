@@ -5,7 +5,7 @@ https://nbviewer.jupyter.org/ will be helpful for .ipynb format
 <br>
 
 ### certificate
-
+certificates for the courses
 <br>
 [EdinburghX PA4.3x_MM Certificate _ edX.pdf](https://github.com/Goodsma/Code_review-Predictive_Analytics_using_Python/files/6795434/EdinburghX.PA4.3x_MM.Certificate._.edX.pdf)
 <br>
